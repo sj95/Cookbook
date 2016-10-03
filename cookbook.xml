@@ -1,0 +1,53 @@
+<cookbook>
+               <recipe>
+		    <type>Entree</type>
+                    <title>Chicken Parmesan</title>
+                    <ingredients>Chicken#Marinara sauce#parmesan cheese#flour</ingredients>
+                    <quantities>1/2lb#2 cups#2 tbsp#1 cup</quantities>
+                    <directions>Cook it</directions>
+                    <rating>1</rating>
+                </recipe>
+                <recipe>
+		    <type>Entree</type>
+                    <title>Shepherds Pie</title>
+                    <ingredients>Potatoes#Ground Beef#Mixed Vegetables</ingredients>
+                    <quantities>1 potato#1lb#2 cups</quantities>
+                    <directions>Bake it</directions>
+                    <rating>3</rating>
+                </recipe>
+
+	     <recipe>
+		<type>Appetizer</type>
+                <title>Bacon-wrapped Scallops</title>
+                <ingredients>Bacon#Scallops</ingredients>
+                <quantities>a lot#same as bacon</quantities>
+                <directions>Not much to say here</directions>
+                <rating>2</rating>
+            </recipe>
+            <recipe>
+	        <type>Appetizer</type>
+                <title>Bruschetta</title>
+                <ingredients>Baguette#Tomatoes#Mozzarella Cheese</ingredients>
+                <quantities>1#1 can#1 cup</quantities>
+                <directions>Put it all together</directions>
+                <rating>2</rating>
+            </recipe>
+
+
+            <recipe>
+	        <type>Favorite</type>
+                <title>Pound cake</title>
+                <ingredients>Flour#Eggs#Butter</ingredients>
+                <quantities>2 cups#2#2 tbsp</quantities>
+                <directions>Stir and bake</directions>
+                <rating>2</rating>
+            </recipe>
+            <recipe>
+	        <type>Favorite</type>
+                <title>Cherry Pie</title>
+                <ingredients>Pie crust#Cherries</ingredients>
+                <quantities>1 crust#20</quantities>
+                <directions>Dump cherries and bake</directions>
+                <rating>1</rating>
+            </recipe>
+</cookbook>
